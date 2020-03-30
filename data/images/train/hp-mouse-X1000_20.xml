@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hp-mouse-X1000</folder>
+	<filename>hp-mouse-X1000_20.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\hp-mouse-X1000\hp-mouse-X1000_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hp-mouse-X1000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>289</ymin>
+			<xmax>384</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

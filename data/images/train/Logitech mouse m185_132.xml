@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Logitech mouse m185</folder>
+	<filename>Logitech mouse m185_132.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\Logitech mouse m185\Logitech mouse m185_132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>789</width>
+		<height>807</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logitech-mouse-m185</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>86</ymin>
+			<xmax>375</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>logitech-mouse-m185</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>144</ymin>
+			<xmax>753</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>logitech-mouse-m185</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>445</ymin>
+			<xmax>732</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>logitech-mouse-m185</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>412</ymin>
+			<xmax>316</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

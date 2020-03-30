@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seagate-hdd-240gb</folder>
+	<filename>seagate-hdd-240gb_14.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\seagate-hdd-240gb\seagate-hdd-240gb_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seagate-hdd-240gb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>9</ymin>
+			<xmax>662</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

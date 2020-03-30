@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dell-monitor-D1918H</folder>
+	<filename>dell-monitor-D1918H_14.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\dell-monitor-D1918H\dell-monitor-D1918H_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>578</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dell-monitor-D1918H</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>573</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

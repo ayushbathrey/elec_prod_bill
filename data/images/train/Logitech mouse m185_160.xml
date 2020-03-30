@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Logitech mouse m185</folder>
+	<filename>Logitech mouse m185_160.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\Logitech mouse m185\Logitech mouse m185_160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logitech-mouse-m185</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>118</ymin>
+			<xmax>259</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

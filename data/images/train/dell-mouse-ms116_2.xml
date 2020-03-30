@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dell-mouse-ms116</folder>
+	<filename>dell-mouse-ms116_2.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\dell-mouse-ms116\dell-mouse-ms116_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dell-mouse-ms116</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>22</ymin>
+			<xmax>485</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

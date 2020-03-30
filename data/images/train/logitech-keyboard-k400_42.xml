@@ -1,0 +1,26 @@
+<annotation>
+	<folder>logitech-keyboard-k400</folder>
+	<filename>logitech-keyboard-k400_42.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\dsfdsf\logitech-keyboard-k400\logitech-keyboard-k400_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logitech-keyboard-k400</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>392</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

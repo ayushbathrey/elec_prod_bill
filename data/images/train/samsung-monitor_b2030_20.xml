@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samsung-monitor-b2030</folder>
+	<filename>samsung-monitor_b2030_20.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\samsung-monitor-b2030\samsung-monitor_b2030_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung-monitor-b2030</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>189</ymin>
+			<xmax>1043</xmax>
+			<ymax>951</ymax>
+		</bndbox>
+	</object>
+</annotation>

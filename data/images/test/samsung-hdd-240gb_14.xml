@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samsung-hdd-240gb</folder>
+	<filename>samsung-hdd-240gb_14.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\edit\samsung-hdd-240gb\samsung-hdd-240gb_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung-hdd-240gb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>35</ymin>
+			<xmax>730</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hp-monitor-19ka</folder>
+	<filename>hp-monitor-19ka_42.jpg</filename>
+	<path>C:\Users\HP\Desktop\bathrey\dsfdsf\hp-monitor-19ka\hp-monitor-19ka_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hp-monitor-19ka</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>45</ymin>
+			<xmax>309</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
